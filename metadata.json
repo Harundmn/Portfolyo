@@ -1,7 +1,0 @@
-{
-  "name": "Artnix Portfolio",
-  "description": "A high-end, minimalist graphic design portfolio featuring work showcases, professional background, and AI-powered design insights.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
